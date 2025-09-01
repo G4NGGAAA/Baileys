@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://cdn.api.upstation.media/2024-08/1723788556119_IMG_5376.jpeg" alt="Header Image" width="100%"/>
+<img src = "https://cdn.api.upstation.media/2024-08/1723788492188_IMG_5371.jpg" alt="Header Image" width="100%"/>
 
 <br/>
 

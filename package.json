@@ -12,13 +12,13 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/Itsukichann/Baileys",
+  "homepage": "https://github.com/G4NGGAAA/Baileys",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Itsukichann/Baileys.git"
+    "url": "git+ssh://git@github.com/G4NGGAAA/Baileys.git"
   },
   "license": "MIT",
-  "author": "Itsukichann",
+  "author": "G4NGGAAA",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [

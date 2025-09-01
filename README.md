@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://wy0xihlhnevw1toh.public.blob.vercel-storage.com/images/ueug_ItsukichanBot-kSBgWKyatxf68Vxl3DMdr14VhAv7tR.png" alt="Header Image" width="100%"/>
+<img src="https://cdn.api.upstation.media/2024-08/1723788556119_IMG_5376.jpeg" alt="Header Image" width="100%"/>
 
 <br/>
 

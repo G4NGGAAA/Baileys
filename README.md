@@ -70,7 +70,7 @@ yarn add @itsukichan/baileys
 
 Use the edge version (no guarantee of stability, but latest fixes + features)
 ```
-yarn add github:Itsukichann/Baileys
+yarn add github:G4NGGAAA/Baileys
 ```
 
 Then import your code using:
